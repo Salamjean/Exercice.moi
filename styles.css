@@ -1,0 +1,41 @@
+.principal{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    gap: 50px;
+}
+.principal_1, .principal_2, .principal_3{
+    background-color: white;
+    width: 290px;
+    height: 420px;
+    border-radius: 20px;
+    border-width: 200px;
+    box-shadow: 10px 10px 10px 10px rgb(0, 0, 0, 0.5)    ;
+    
+    
+}
+img{
+    padding: 20px;
+    width: 250px;
+    height: 250px;
+}
+.nomA{
+    margin: -10px 0 0 20px ;
+}
+.comA{
+    margin: 5px 0 25px 20px ;
+}
+button{
+    margin: 20px 0 20px 20px ;
+    width: 45px;
+    height: 25px;
+    font-weight: bold;
+    border-width: 2px;
+    
+}
+
+.panier{
+    margin-top: 20px;
+    background-color: red;
+}
